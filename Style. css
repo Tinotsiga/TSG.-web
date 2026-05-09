@@ -1,0 +1,36 @@
+h1{color:red;
+  font-style:italic;
+  font-size:40px;
+  padding-left:30px;
+  margin-bottom:10px;
+}
+
+h2{margin-bottom:20px;
+  padding-left:100px; 
+}
+
+input[type="text"]{
+  background-color:red;
+  color:blue;
+  height:20px;
+}
+
+input[type="tel"]{
+  background-color:red;
+  color:blue;
+  height:auto;
+  width:auto;
+}
+
+input[type="password"]{
+  background-color:red;
+  color:blue;
+  height:20px;
+  width:auto;
+}
+
+input[type="submit"]{
+  background-color:black;
+  color:white;
+  font-type:italic;
+}
